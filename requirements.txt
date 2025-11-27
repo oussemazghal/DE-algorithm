@@ -2,4 +2,4 @@ fastapi
 uvicorn
 numpy
 pydantic
-# cec2017  # Optional, uncomment if you have a C++ compiler
+cec2017  
