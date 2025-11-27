@@ -2,4 +2,4 @@ fastapi
 uvicorn
 numpy
 pydantic
-cec2017  
+cec2017 @ git+https://github.com/tilleyd/cec2017-py.git
